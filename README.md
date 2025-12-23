@@ -11,7 +11,7 @@
 I am a 22-year-old **Computer Science Master's student** at *Universidade da Beira Interior* (2nd year). Currently, I'm balancing my academic journey with professional experience as a **SAP/ABAP Developer at Inetum Portugal**.
 While I'm building my career in the SAP ecosystem, I'm deeply passionate about expanding my horizons in **Data Science, Machine Learning, and Cybersecurity**.
 
-### 🛠 Tech Stack & Tools
+## Tech Stack
 
 **Languages & Core:**
 ![ABAP](https://img.shields.io/badge/ABAP-orange?style=flat-square&logo=sap) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)

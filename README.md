@@ -1,6 +1,8 @@
 # <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&color=FFFFFF&width=600&height=70&lines=Leandro+Serra" alt="Typing SVG" />
 </p>
+
+
 ### Masters in Computer Science | Universidade da Beira Interior
 ### SAP/ABAP Developer | Inetum Portugal
 

@@ -3,8 +3,8 @@
 </p>
 
 
-### Ms Computer Science | Universidade da Beira Interior
-### SAP/ABAP Developer  | Inetum Portugal
+### Masters in Computer Science | Universidade da Beira Interior
+### SAP/ABAP Developer           | Inetum Portugal 
 
 ## About me
 

@@ -1,4 +1,4 @@
-# Hi
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Leandro+Serra;Master's+in+CS+Student;SAP+/+ABAP+Developer" alt="Typing SVG" /></p>
 
 ### Masters in Computer Science | Universidade da Beira Interior
 ### SAP/ABAP Developer | Inetum Portugal
